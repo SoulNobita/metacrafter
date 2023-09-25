@@ -60,14 +60,6 @@ Blockchain is a decentralized and immutable ledger technology, while smart contr
 - **Consensus Mechanisms:** Algorithms like Proof of Work (PoW) or Proof of Stake (PoS) secure the network and validate transactions.
 - **Gas Fees:** Ethereum transactions require gas fees to compensate miners for processing.
 
-## Web3
-
-[Web3.js](https://web3js.readthedocs.io/en/v1.5.2/) is a JavaScript library for interacting with Ethereum-based applications. It enables:
-
-- **Node Connectivity:** Connecting to Ethereum nodes to send transactions and query data.
-- **Decentralized App Development:** Building decentralized applications (dApps) that interact with the Ethereum blockchain.
-- **Smart Contract Interaction:** Sending transactions to and reading data from Ethereum smart contracts.
-
 ###code explanation for the provided Solidity smart contract:
 
 ```solidity
